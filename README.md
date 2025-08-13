@@ -17,6 +17,6 @@
 </p>
 
 ## 📊 GitHub Stats:
-// ![](https://nirzak-streak-stats.vercel.app/?user=lohith2406&theme=radical&hide_border=false)<br/> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lohith2406&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
+// ![](https://nirzak-streak-stats.vercel.app/?user=lohith2406&theme=radical&hide_border=false)<br/> -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lohith2406&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact) 
 
