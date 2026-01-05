@@ -1,10 +1,5 @@
 # Hi there, I'm Lohith 👋
 
-<!-- ## 👨‍💻 About Me
- A passionate full-stack developer and a gamer. 
- 
-- 🌱 I’m currently learning Socket.io -->
-- 🔭 I’m currently working on web development projects
 - 📫 How to reach me: ssvlohith@gmail.com
 
 ## 💻 Tech Stack:
